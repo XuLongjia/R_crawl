@@ -1,0 +1,1 @@
+java -Dwebdriver.chrome.driver="C:\Program Files (x86)\Google\Chrome\Application\chromedriver.exe" -jar C:\Users\star_kuang\Documents\R\win-library\3.5\Rwebdriver\selenium-server-standalone-3.8.1.jar
