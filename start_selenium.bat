@@ -1,1 +1,0 @@
-java -Dwebdriver.chrome.driver="D:\RRR\dynamic\chromedriver.exe" -jar D:\RRR\dynamic\selenium-server-standalone-3.14.0.jar
